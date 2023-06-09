@@ -1,0 +1,8 @@
+<RCC>
+    <qresource prefix="/">
+        <file>images/24gl-swapHorizontal.png</file>
+        <file>images/1.png</file>
+        <file>images/2.png</file>
+        <file>images/灯.png</file>
+    </qresource>
+</RCC>
